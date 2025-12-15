@@ -1,0 +1,9 @@
+{
+"name": "ciphera",
+"private": true,
+"workspaces": ["sdk", "cli", "offchain"],
+"scripts": {
+"lint": "eslint .",
+"build": "pnpm -r build"
+}
+}
