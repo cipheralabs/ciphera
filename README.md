@@ -106,9 +106,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact & Resources
 
-* **Website:** [https://ciphera.dev](https://ciphera.dev)
+* **Website:** [ciphera.dev](https://ciphera.dev)
 * **Twitter:** [@Cipheratechs](https://x.com/cipheratechs)
-* **Email:** [contact@](mailto:help@ciphera.dev)
+* **Email:** [Contact Us](mailto:help@ciphera.dev)
 
 For the latest updates and examples, visit our website or join the early access program.
 
